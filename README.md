@@ -15,7 +15,7 @@ Skills: TYPESCRIPT / REACT / JS / C# / Material UI TO BE CONTINUED... :P
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathmci13)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathmci13&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathmci13&show_icons=true&count_private=true&theme=radical)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Mathmci13)  
 
