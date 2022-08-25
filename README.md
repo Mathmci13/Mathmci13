@@ -5,7 +5,7 @@ This is my humble Github page, feel free to explore my programming study project
 
 Skills: TYPESCRIPT / REACT / JS / C# / Material UI TO BE CONTINUED... :P
 
-- 🔭 I’m currently working on REACT/TYPESCRIPT/MATERIAL UI 
+- 🔭 I’m currently working on REACT/TYPESCRIPT/MATERIAL UI/REACT-HOOK-FORMS 
 - 🌱 I’m currently learning REACT/TYPESCRIPT 
 
 
