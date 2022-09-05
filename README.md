@@ -11,7 +11,7 @@ Skills: TYPESCRIPT / REACT / JS / C# / Material UI TO BE CONTINUED... :P
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mathmci13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-chagas-iglesias-75398b1b9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mathmci/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mathmci13&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mathmci13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathmci13&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
