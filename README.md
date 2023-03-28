@@ -7,9 +7,12 @@ Skills: TYPESCRIPT / REACT / JS / C# / Material UI TO BE CONTINUED... :P
 
 - 🔭 I’m currently working on REACT/TYPESCRIPT/MATERIAL UI/REACT-HOOK-FORMS 
 - 🌱 I’m currently learning REACT/TYPESCRIPT 
+  <div align="center">
+    <a href="https://github.com/Mathmci13"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="width:50px;height:50px;">
+    <a href="https://www.linkedin.com/in/matheus-chagas-iglesias-75398b1b9"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="width:50px;height:50px;">
+    <a href="https://instagram.com/mathmci"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="width:50px;height:50px;">  
+  </div>  
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mathmci13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-chagas-iglesias-75398b1b9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mathmci/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mathmci13&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
