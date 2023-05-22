@@ -22,8 +22,8 @@
 
 <div align="center">
 <a href="https://github.com/seu-usuário-aqui">
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathmci13&show_icons=true&count_private=true&theme=radical"/>
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=Mathmci13&show_icons=true&count_private=true&theme=radical"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathmci13&show_icons=true&count_private=true&theme=radical"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=Mathmci13&show_icons=true&count_private=true&theme=radical"/>
 </div>
 <hr>
 <div align="center">
