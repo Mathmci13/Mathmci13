@@ -31,6 +31,6 @@
 </div>
   
   
-![Snake animation](https://github.com/Mathmci13/Mathmci13/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mathmci13/mathmci13/blob/output/github-contribution-grid-snake.svg)
 
 
