@@ -31,7 +31,9 @@
 <img height="575em" src="https://metrics.lecoq.io/Mathmci13"/>
 </div>
   
-  
-![Snake animation](https://github.com/mathmci13/mathmci13/blob/output/github-contribution-grid-snake.svg)
 
-
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mathmci13/Mathmci13/blob/output/github-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mathmci13/Mathmci13/blob/output/github-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mathmci13/Mathmci13/output/github-contribution-grid-snake.svg">
+</picture>
