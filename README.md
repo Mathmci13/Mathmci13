@@ -27,9 +27,6 @@
 </div>
 <hr>
 
-<div align="center">
-<img height="575em" src="https://metrics.lecoq.io/Mathmci13"/>
-</div>
   
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mathmci13/Mathmci13/blob/output/github-snake-dark.svg">
